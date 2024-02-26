@@ -6,7 +6,7 @@
 ### About me
 I am currently a Computer Science student at School 42, simultaneously pursuing an MSc. in Bioinformatics & Systems Biology. With proficiency in both low-level and high-level programming languages, I am deeply interested in applying computational techniques to biological systems.
 * 🌍  I'm based in Istanbul, Turkey
-* ✉️  You can contact me at: [timurcakmakoglu@gmail.com](mailto:timurcakmakoglu@gmail.com)
+* ✉️  You can contact me at: [t.cakmakoglu@tutanota.com](mailto:t.cakmakoglu@tutanota.com)
 * 🧠  I'm looking forward to study: Data Science and Artificial Intelligence
 
 ### Skills
